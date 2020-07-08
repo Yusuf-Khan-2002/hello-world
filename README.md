@@ -3,4 +3,4 @@
 
 Hello,
 
-I like to code and I'm to learn how to use GitHub.
+I like to code and I'm learning how to use GitHub.
